@@ -1,10 +1,25 @@
 {
   "name": "com.riftsender.uniopencli",
-  "version": "1.0.0",
-  "displayName": "Unity CLI Opener",
-  "description": "Open terminal from Unity Project window.",
-  "unity": "2022.3",
+  "version": "2.0.0",
+  "displayName": "UniOpen CLI",
+  "description": "Open a terminal with your favorite CLI tool (Claude Code, Codex, Gemini CLI, git — anything) straight from the Project window context menu, in the folder of the selected asset.",
+  "unity": "2021.3",
+  "keywords": [
+    "cli",
+    "terminal",
+    "shell",
+    "editor",
+    "productivity",
+    "claude",
+    "codex",
+    "gemini"
+  ],
   "author": {
-    "name": "Rift Sender"
-  }
+    "name": "Rift Sender",
+    "url": "https://github.com/RiftSenderSoftware"
+  },
+  "license": "Apache-2.0",
+  "documentationUrl": "https://github.com/RiftSenderSoftware/UniOpen-CLI#readme",
+  "changelogUrl": "https://github.com/RiftSenderSoftware/UniOpen-CLI/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/RiftSenderSoftware/UniOpen-CLI/blob/main/LICENSE.md"
 }
