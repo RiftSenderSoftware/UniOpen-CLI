@@ -1,0 +1,10 @@
+{
+  "name": "com.riftsender.uniopencli",
+  "version": "1.0.0",
+  "displayName": "Unity CLI Opener",
+  "description": "Open terminal from Unity Project window.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Rift Sender"
+  }
+}
